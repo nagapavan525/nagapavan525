@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on building AI computer vision based projects using pytorch framework.
+I'm currently working on building AI Core computer vision based projects using pytorch framework.
 
 I had developed quite a number AI projects including some major projects Chest x-ray report Generation, Phenomonia bounding box prediction, COVID-19 chest x-ray image classfication, Blood Pressure Prediction using PPG signals.
 
