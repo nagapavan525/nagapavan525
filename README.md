@@ -11,7 +11,8 @@ I'm looking to collaborate with any startups who need consultations while buildi
 
 **How to reach me:**
 
-You can reach me at linkedin - https://www.linkedin.com/in/naga-pavan-kumar-kalepu-8b516b29/, email - nagapavan.kalepu
+- You can reach me at linkedin - https://www.linkedin.com/in/naga-pavan-kumar-kalepu-8b516b29/ 
+- Email - nagapavan.kalepu@gmail.com
 
 
 <!--
