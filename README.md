@@ -4,7 +4,7 @@ I'm currently working on building AI Core computer vision based projects using p
 
 I had developed quite a number AI projects including some major projects Chest x-ray report Generation, Phenomonia bounding box prediction, COVID-19 chest x-ray image classfication, Blood Pressure Prediction using PPG signals.
 
-I'm currently learning FASTAI in parllel to infuse AI in few lines of code. I feel FASTAI is really should be a handy tool to implement things faster in AI, Even I used Keras earlier, I still feel FASTAI much better in terms of easy to implement, flexible as it was implemented on pytroch (best framework to deep learning projects as its pythonic and native to python).
+I'm currently learning FASTAI in parllel to infuse AI in few lines of code. I feel FASTAI is really should be a handy tool to implement things faster in AI, Even I used high-level framework Keras earlier, I still feel FASTAI much better in terms of easy to implement, flexible as it was implemented on pytroch (best framework to deep learning projects as its pythonic and native to python).
 
 I'm looking to collaborate with any startups who need consultations while building AI based projects.
 
