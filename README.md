@@ -8,6 +8,9 @@ I'm currently learning FASTAI in parllel to infuse AI in few lines of code. I fe
 
 I can help collaborating with industries who need consulting on building Computer Vision based projects.
 
+**Projects Portfolio:**
+
+- https://eportfolio.greatlearning.in/naga-pavan-kumar-kalepu
 
 **How to reach me:**
 
