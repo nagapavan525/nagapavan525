@@ -6,7 +6,7 @@ I had developed quite a number AI projects including some major projects Chest x
 
 I'm currently learning FASTAI in parllel to infuse AI in few lines of code. I feel FASTAI is really should be a handy tool to implement things faster in AI, Even I used high-level framework Keras earlier, I still feel FASTAI much better in terms of easy to implement, flexible as it was implemented on pytroch (best framework to deep learning projects as its pythonic and native to python).
 
-I'm looking to collaborate with any startups who need consultations while building AI based projects.
+I can help collaborating with industries who need consultations while building AI based projects.
 
 
 **How to reach me:**
