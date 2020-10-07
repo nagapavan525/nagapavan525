@@ -12,6 +12,22 @@ I can help collaborating with industries who need consulting on building Compute
 
 - https://eportfolio.greatlearning.in/naga-pavan-kumar-kalepu
 
+**My DEEP LEARNING SKILLS:**
+
+1. Handle various types of data including tabular data, images, speech, text, digital signals using Deep Learning
+2. DNN and CNN Concepts - Convolutions, Pooling Operations & Channels, Kernels, Activations, and Layers
+3. A step-by-step way to build the best deep learning architectures
+4. Receptive Fields - The CORE fundamental concept behind computer vision to design an efficient network.
+5. Batch Normalization, Kernels & Regularization and Mathematics behind them
+6. Backpropagation and Advanced Convolutions - Depthwise, Pixel Shuffle, Dilated, Transpose convolution.
+7. Advanced Image Augmentation Techniques - Albumentations, Richman's data augmentation, and benchmarks
+8. DNN Interpretability - Class Activation Maps, the most powerful debugging tool at your disposal
+9. Advanced Training Concepts - Optimizers, LR Schedules, & Loss Functions
+10. SuperConvergence: Cyclic Learning Rates, One Cycle Policy, and Dawnbench
+11. The intuition behind state of art networks VGG16/VGG19, ResNets, Inception, RCNN family (RCNN, Fast-RCNN, FasterRCNN), SSD, and Squeeze & Excitation network.
+12. Sequence Models - RNNs, LSTMs/GRUs, and Bidirectional & Attention-based LSTMs/GRUs.
+13. Image Captioning - Image Captioning - Integrating CNN + LSTMs
+
 **How to reach me:**
 
 - You can reach me at linkedin - https://www.linkedin.com/in/naga-pavan-kumar-kalepu-8b516b29/ 
