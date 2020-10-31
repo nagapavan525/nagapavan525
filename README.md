@@ -16,17 +16,19 @@ I can help collaborating with industries who need consulting on building Compute
 
 1. Handle various types of data including tabular data, images, speech, text, digital signals using Deep Learning
 2. DNN and CNN Concepts - Convolutions, Pooling Operations & Channels, Kernels, Activations, and Layers
-3. A step-by-step way to build the best deep learning architectures
+3. A step-by-step way to build the best deep learning network architectures with one variable change approach in an efficient way.
 4. Receptive Fields - The CORE fundamental concept behind computer vision to design an efficient network.
 5. Batch Normalization, Kernels & Regularization and Mathematics behind them
 6. Backpropagation and Advanced Convolutions - Depthwise, Pixel Shuffle, Dilated, Transpose convolution.
 7. Advanced Image Augmentation Techniques - Albumentations, Richman's data augmentation, and benchmarks
 8. DNN Interpretability - Class Activation Maps, the most powerful debugging tool at your disposal
-9. Advanced Training Concepts - Optimizers, LR Schedules, & Loss Functions
-10. SuperConvergence: Cyclic Learning Rates, One Cycle Policy, and Dawnbench
-11. The intuition behind state of art networks VGG16/VGG19, ResNets, Inception, RCNN family (RCNN, Fast-RCNN, FasterRCNN), SSD, and Squeeze & Excitation network.
-12. Sequence Models - RNNs, LSTMs/GRUs, and Bidirectional & Attention-based LSTMs/GRUs.
-13. Image Captioning - Image Captioning - Integrating CNN + LSTMs
+9. SuperConvergence: Cyclic Learning Rates, One Cycle Policy
+10. ResNets: Trained ResNet for TinyImageNet from scratch
+11. YoloV2/YoloV3: Understanding YOLOV2/V3 Loss Function, Implementing Object Detection Training & Transfer Learning on Custom Objects from scratch (Pipeline - Data Collection, Annotating, Data Pre-processing, Image augmentation, Customizing the YOLO architecture as per the need, Model training, Model inference [Extract the frames of the video, Inference the objects in the frames, stitch the frames back to form video along with Audio])
+12. Advanced Training Concepts - Optimizers, LR Schedules, & Loss Functions
+13. The intuition behind state of art networks VGG16/VGG19, ResNets, Inception, RCNN family (RCNN, Fast-RCNN, FasterRCNN), YOLO v1/v2/v3, and Squeeze & Excitation network.
+14. Sequence Models - RNNs, LSTMs/GRUs, and Bidirectional & Attention-based LSTMs/GRUs.
+15. Image Captioning - Image Captioning - Integrating CNN + LSTMs
 
 **How to reach me:**
 
