@@ -29,6 +29,7 @@ I can help collaborating with industries who need consulting on building Compute
 13. The intuition behind state of art networks VGG16/VGG19, ResNets, Inception, RCNN family (RCNN, Fast-RCNN, FasterRCNN), YOLO v1/v2/v3, and Squeeze & Excitation network.
 14. Sequence Models - RNNs, LSTMs/GRUs, and Bidirectional & Attention-based LSTMs/GRUs.
 15. Image Captioning - Image Captioning - Integrating CNN + LSTMs
+16. Monocular Depth Estimation and 3D plane surface prediction from 2D data which can be used in VR, AR, and Autonomous driving.
 
 **How to reach me:**
 
