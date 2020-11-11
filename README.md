@@ -12,7 +12,7 @@ I can help collaborating with industries who need consulting on building Compute
 
 - https://eportfolio.greatlearning.in/naga-pavan-kumar-kalepu
 
-**Currently part of IBM Watson and IBM Cloud Pak Systems in IBM Software Labs**
+**Currently part of IBM Watson and IBM Cloud Pak Systems in IBM Software Labs, Bangalore, India**
 
 **My DEEP LEARNING SKILLS:**
 
