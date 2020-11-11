@@ -12,6 +12,8 @@ I can help collaborating with industries who need consulting on building Compute
 
 - https://eportfolio.greatlearning.in/naga-pavan-kumar-kalepu
 
+**Currently part of IBM Watson and IBM Cloud Pak Systems in IBM Software Labs**
+
 **My DEEP LEARNING SKILLS:**
 
 1. Handle various types of data including tabular data, images, speech, text, digital signals using Deep Learning
@@ -31,7 +33,6 @@ I can help collaborating with industries who need consulting on building Compute
 15. Image Captioning - Image Captioning - Integrating CNN + LSTMs
 16. Monocular Depth Estimation and 3D plane surface prediction from 2D data which can be used in VR, AR, and Autonomous driving.
 
-**Currently part of IBM Watson and IBM Cloud Pak Systems in IBM Software Labs**
 
 **How to reach me:**
 
