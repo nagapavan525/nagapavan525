@@ -43,7 +43,7 @@ I can help collaborating with industries who need consulting on building Compute
 16. Monocular Depth Estimation and 3D plane surface prediction from 2D data which can be used in VR, AR, and Autonomous driving.
 
 
-**How to reach me:**
+**How to reach me or know about me:**
 
 - You can reach me at linkedin - https://www.linkedin.com/in/naga-pavan-kumar-kalepu-8b516b29/ 
 - Email - nagapavan.kalepu@gmail.com
