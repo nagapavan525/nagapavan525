@@ -19,7 +19,7 @@ I was a ComputerVision Practitioner & DeepLearning engineer who worked on buildi
 
 But I'm also working personally on building AI Core computer vision based projects using pytorch framework.
 
-I had developed quite a number AI projects including some major projects Chest x-ray report Generation, Phenomonia bounding box prediction, COVID-19 chest x-ray image classfication, Blood Pressure Prediction using PPG signals.
+I had developed quite a number AI projects including some major projects **Chest x-ray report Generation, Phenomonia bounding box prediction, COVID-19 chest x-ray image classfication, Blood Pressure Prediction using PPG signals.**
 
 I can help collaborating with industries who need consulting on building Computer Vision based projects.
 
