@@ -47,6 +47,7 @@ I can help collaborating with industries who need consulting on building Compute
 
 - You can reach me at linkedin - https://www.linkedin.com/in/naga-pavan-kumar-kalepu-8b516b29/ 
 - Email - nagapavan.kalepu@gmail.com
+- Phone/Whats app - +919948613631
 - Resume - https://drive.google.com/file/d/1r6C0RH3QNwelVO9j6kC1Om3OiQ7xbsxj/view?usp=sharing
 - Github Link - https://github.com/nagapavan525/
 - AIML Project portfolio - https://eportfolio.greatlearning.in/naga-pavan-kumar-kalepu
