@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-I'm currently working on building AI Core computer vision based projects using pytorch framework.
+
+To say about myself -- Have strong analytical(Stats/ML/DL/AIML), AIML products/solutions architect, project management, & problem-solving skills which aid in delivering AIML solutions that help my organization.
+
+I am an AIML Software Product Manager or Delivery Lead at Accenture, for CPG.AI analytical workstream. 
+
+I help to build & deliver industrialized analytical solutions for CPG/FMCG clients using a combination of Statistical/ML/DL/AI modeling tools, Cloud Infra, Figma UI/UX designs, & UI/UX development which helps for designing the best business strategies in terms of marketing, product manufacturing, & other business functions' strategies. I work with multiple functional teams to deliver the end-end AIML solutions including Accenture's leadership, my AIML core team, Data provisioning teams, Data vendors/source teams, UI/UX design teams, UI development teams. 
+
+Under my leadership, we delivered multiple analytical solutions - Consumer infinity in March 2022 which made a big impact on Accenture Business & many clients and increased the revenue by 10% on average for clients after using it. The solution is basically built using Consumer reviews & Social media data which gives insights of Consumers (Consumer segments, consumer preferences & sentiments, what they are searching for) & Products (What features of the products are the most important, Brand analysis, Competitor analysis, & sentiments across) in 360 degrees which help CPG industries to make data-driven decisions accurately & improve their business strategies. 
+
+And delivered another solution called SocialAI which has major features of user journey & trendspotting. 
+
+And we are currently developing solutions for DTC (Direct to consumer) Clients.
+
+In Accenture, I wear multiple hats of roles including Delivery Lead, AIMLArchitect, project manager, technical product manager, & responsible to deliver end-end AIML solutions for various business functions(Marketing, Commerce, ConsumerInsights) in CPG/FMCG companies
+
+I was a ComputerVision Practitioner & DeepLearning engineer who worked on building various Deep Learning solutions in the image, text, & digital signal processing domains for IBM Watson. In the past, I worked as a Core Python backend developer for products IBM CloudPakSystem(PaaS), Seagate's ClusterStor HPC StorageSolution, Buffalo NAS product, EMC Vplex, Actifio CDS
+
+But I'm also working personally on building AI Core computer vision based projects using pytorch framework.
 
 I had developed quite a number AI projects including some major projects Chest x-ray report Generation, Phenomonia bounding box prediction, COVID-19 chest x-ray image classfication, Blood Pressure Prediction using PPG signals.
 
 I can help collaborating with industries who need consulting on building Computer Vision based projects.
-
-**Projects Portfolio:**
-
-- https://eportfolio.greatlearning.in/naga-pavan-kumar-kalepu
-
-**Currently part of IBM Watson and IBM Cloud Pak Systems in IBM Software Labs, Bangalore, India**
 
 **My DEEP LEARNING SKILLS:**
 
@@ -36,6 +47,9 @@ I can help collaborating with industries who need consulting on building Compute
 
 - You can reach me at linkedin - https://www.linkedin.com/in/naga-pavan-kumar-kalepu-8b516b29/ 
 - Email - nagapavan.kalepu@gmail.com
+- Resume - https://drive.google.com/file/d/1r6C0RH3QNwelVO9j6kC1Om3OiQ7xbsxj/view?usp=sharing
+- Github Link - https://github.com/nagapavan525/
+- AIML Project portfolio - https://eportfolio.greatlearning.in/naga-pavan-kumar-kalepu
 
 
 
