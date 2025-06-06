@@ -6,6 +6,10 @@ My hands-on expertise spans LangChain, AutoGen, and OpenAI APIs, coupled with de
 
 I’m passionate about building intelligent, agentic systems that are not just innovative—but deeply practical and impactful. I’d welcome the opportunity to bring this mindset to your team.
 
+Warm regards,
+Naga Pavan Kumar Kalepu
+📧 nagapavan.kalepu@gmail.com | 📞 +91-9948613631
+
 <!--
 **nagapavan525/nagapavan525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
